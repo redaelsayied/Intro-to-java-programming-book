@@ -14,6 +14,7 @@ import java.util.Scanner;
  * Enter the number of days elapsed since today: 31
  * Today is Sunday and the future day is Wednesday
  */
+
 public class Problem03_05 {
 
     public static void main(String[] args) {
