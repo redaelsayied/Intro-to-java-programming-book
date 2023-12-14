@@ -16,6 +16,8 @@ import java.util.Scanner;
  * Enter v0, v1, and t: 5.5 50.9 4.5
  * The average acceleration is 10.0889
  */
+
+
 public class Problem02_09 {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
