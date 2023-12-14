@@ -12,6 +12,7 @@ import java.util.Scanner;
  * Enter balance and interest rate (e.g., 3 for 3%): 1000 3.5
  * The interest is 2.91667
  */
+
 public class Problem02_20 {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
