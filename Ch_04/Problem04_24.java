@@ -13,6 +13,7 @@ import java.util.Scanner;
  * The three cities in alphabetical order are Atlanta Chicago
  * Los Angeles
  */
+
 public class Problem04_24 {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
